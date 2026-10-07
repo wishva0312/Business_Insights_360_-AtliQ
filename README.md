@@ -411,37 +411,6 @@ The dashboard demonstrates multiple Power BI visualization techniques:
 
 ---
 
-# 📂 Recommended GitHub Repository Structure
-
-```text
-BI360-Business-Insight/
-│
-├── README.md
-│
-├── BI360_Dashboard.pbix
-│
-├── Screenshots/
-│   ├── Home_View.png
-│   ├── Finance_View.png
-│   ├── Sales_View.png
-│   ├── Marketing_View.png
-│   ├── Supply_Chain_View.png
-│   ├── Executive_View.png
-│   └── Information_View.png
-│
-├── Reports/
-│   ├── Finance_View.pdf
-│   ├── Sales_View.pdf
-│   ├── Marketing_View.pdf
-│   ├── Supply_Chain_View.pdf
-│   └── Executive_View.pdf
-│
-└── Documentation/
-    └── Project_Documentation.pdf
-```
-
----
-
 # 🔗 Live Power BI Report
 
 **Power BI:**  
