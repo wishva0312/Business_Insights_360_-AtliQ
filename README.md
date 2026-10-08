@@ -410,11 +410,13 @@ The dashboard demonstrates multiple Power BI visualization techniques:
 | **Excel / Source Data** | Business data preparation/source layer |
 
 ---
-
 # 🔗 Live Power BI Report
 
+**[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAwN2NkNzAtMzUwOS00YzAxLTg2M2YtNWIzNjRiOGRjZmFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+)**
+
+
 **Power BI:**  
-https://app.powerbi.com/view?r=eyJrIjoiYzAwN2NkNzAtMzUwOS00YzAxLTg2M2YtNWIzNjRiOGRjZmFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
 
